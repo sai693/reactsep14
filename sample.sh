@@ -3,7 +3,7 @@ echo "added again sai9609"
 echo "again creatfdfsakfing 3243"
 a=2
 echo $a
-b=3
+b=5
 echo $b
 c=0
 c = $(($a+$b))
