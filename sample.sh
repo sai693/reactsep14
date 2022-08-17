@@ -4,5 +4,6 @@ a=2
 echo $a
 b=3
 echo $b
+c=0
 c = $(($a+$b))
 echo $c
