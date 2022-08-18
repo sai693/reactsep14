@@ -9,3 +9,4 @@ c=0
 c = 7
 echo $c
 echo "l5 commit"
+echo "16 standard"
