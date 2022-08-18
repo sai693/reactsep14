@@ -6,5 +6,5 @@ echo $a
 b=5
 echo $b
 c=0
-c = $(($a+$b))
+c = 7
 echo $c
